@@ -69,12 +69,7 @@ Neon / glass theme website with:
 This repo includes small snippets so GitHub can detect languages:
 
 ```js
-// Demo.cs
-public class Demo {
-    public static string Info => "Lama Worlds — C# Sample";
-}
-
-<!-- demo.html -->
-<div class="neon">Lama Worlds — HTML Demo</div>
+// demo.js
+console.log("Lama Worlds — JavaScript Sample");
 
 
