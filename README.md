@@ -69,7 +69,6 @@ Neon / glass theme website with:
 This repo includes small snippets so GitHub can detect languages:
 
 ```js
-// demo.js
-console.log("Lama Worlds — JavaScript Sample");
+
 
 
